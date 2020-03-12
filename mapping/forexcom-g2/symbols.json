@@ -877,10 +877,6 @@
 		"f": ["REGIONS FINANCIAL CORP CFD"]
 	},
 	{
-		"s": "AMEX:SPY",
-		"f": ["SPDR S&P 500 ETF CFD"]
-	},
-	{
 		"s": "NYSE:RIG",
 		"f": ["TRANSOCEAN CFD"]
 	},
