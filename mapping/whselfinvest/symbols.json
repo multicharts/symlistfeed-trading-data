@@ -46,7 +46,7 @@
 	},
 	{
 		"s": "WHSELFINVEST:JAPAN225CFD",
-		"f": ["Japan 225 CFD"]
+		"f": ["JAPAN 225 CFD"]
 	},
 	{
 		"s": "WHSELFINVEST:USSP500CFD",
@@ -54,26 +54,26 @@
 	},
 	{
 		"s": "WHSELFINVEST:FRANCE40CFD",
-		"f": ["France 40 CFD"]
+		"f": ["FRANCE 40 CFD"]
 	},
 	{
 		"s": "WHSELFINVEST:GERMANY30CFD",
-		"f": ["Germany 30 CFD"]
+		"f": ["GERMANY 30 CFD"]
 	},
 	{
 		"s": "WHSELFINVEST:WALLSTREETCFD",
-		"f": ["Wall Street CFD"]
+		"f": ["WALL STREET CFD"]
 	},
 	{
 		"s": "WHSELFINVEST:GOLDCFD",
-		"f": ["Gold (per 0.1) CFD"]
+		"f": ["GOLD (PER 0.1) CFD"]
 	},
 	{
 		"s": "WHSELFINVEST:USSMALLCAP2000CFD",
-		"f": ["US Small Cap 2000 CFD"]
+		"f": ["US SMALL CAP 2000 CFD"]
 	},
 	{
 		"s": "WHSELFINVEST:USTECH100CFD",
-		"f": ["US Tech 100 CFD"]
+		"f": ["US TECH 100 CFD"]
 	}]
 }
