@@ -495,5 +495,13 @@
 	{
 		"s": "OANDA:TWIXUSD",
 		"f": ["TWIX/USD"]
+	},
+	{
+		"s": "OANDA:BTCUSD",
+		"f": ["BTC/USD"]
+	},
+	{
+		"s": "OANDA:MBTCUSD",
+		"f": ["MBTC/USD"]
 	}]
 }
