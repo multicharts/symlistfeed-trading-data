@@ -218,48 +218,48 @@
 		"f": ["WHEATF"]
 	}, {
 		"s": "FX:INTC",
-		"f": ["INTC"]
+		"f": ["INTC.us"]
 	}, {
 		"s": "FX:AMZN",
-		"f": ["AMZN"]
+		"f": ["AMZN.us"]
 	}, {
 		"s": "FX:PFE",
-		"f": ["PFE"]
+		"f": ["PFE.us"]
 	}, {
 		"s": "FX:GOOG",
-		"f": ["GOOG"]
+		"f": ["GOOG.us"]
 	}, {
 		"s": "FX:BAC",
-		"f": ["BAC"]
+		"f": ["BAC.us"]
 	}, {
 		"s": "FX:MSFT",
-		"f": ["MSFT"]
+		"f": ["MSFT.us"]
 	}, {
 		"s": "FX:AAPL",
-		"f": ["AAPL"]
+		"f": ["AAPL.us"]
 	}, {
 		"s": "FX:T",
-		"f": ["T"]
+		"f": ["T.us"]
 	}, {
 		"s": "FX:TSLA",
-		"f": ["TSLA"]
+		"f": ["TSLA.us"]
 	}, {
 		"s": "FX:F",
-		"f": ["F"]
+		"f": ["F.us"]
 	}, {
 		"s": "FX:FB",
-		"f": ["FB"]
+		"f": ["FB.us"]
 	}, {
 		"s": "FX:BA",
-		"f": ["BA"]
+		"f": ["BA.us"]
 	}, {
 		"s": "FX:XOM",
-		"f": ["XOM"]
+		"f": ["XOM.us"]
 	}, {
 		"s": "FX:JPM",
-		"f": ["JPM"]
+		"f": ["JPM.us"]
 	}, {
 		"s": "FX:NFLX",
-		"f": ["NFLX"]
+		"f": ["NFLX.us"]
 	}]
 }
