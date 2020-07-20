@@ -1,79 +1,80 @@
 {
 	"fields": ["brokerSymbol"],
 	"symbols": [{
-		"s": "WHSELFINVEST:USDCAD",
-		"f": ["USD/CAD"]
-	},
-	{
-		"s": "WHSELFINVEST:USDCHF",
-		"f": ["USD/CHF"]
-	},
-	{
-		"s": "WHSELFINVEST:USDJPY",
-		"f": ["USD/JPY"]
-	},
-	{
-		"s": "WHSELFINVEST:EURUSD",
-		"f": ["EUR/USD"]
-	},
-	{
-		"s": "WHSELFINVEST:EURCHF",
-		"f": ["EUR/CHF"]
-	},
-	{
-		"s": "WHSELFINVEST:GBPJPY",
-		"f": ["GBP/JPY"]
-	},
-	{
-		"s": "WHSELFINVEST:AUDUSD",
-		"f": ["AUD/USD"]
-	},
-	{
-		"s": "WHSELFINVEST:EURJPY",
-		"f": ["EUR/JPY"]
-	},
-	{
-		"s": "WHSELFINVEST:GBPUSD",
-		"f": ["GBP/USD"]
-	},
-	{
-		"s": "WHSELFINVEST:EURGBP",
-		"f": ["EUR/GBP"]
-	},
-	{
-		"s": "WHSELFINVEST:NZDUSD",
-		"f": ["NZD/USD"]
-	},
-	{
-		"s": "WHSELFINVEST:JAPAN225CFD",
-		"f": ["JAPAN 225 CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:USSP500CFD",
-		"f": ["US SP 500 CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:FRANCE40CFD",
-		"f": ["FRANCE 40 CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:GERMANY30CFD",
-		"f": ["GERMANY 30 CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:WALLSTREETCFD",
-		"f": ["WALL STREET CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:GOLDCFD",
-		"f": ["GOLD (PER 0.1) CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:USSMALLCAP2000CFD",
-		"f": ["US SMALL CAP 2000 CFD"]
-	},
-	{
-		"s": "WHSELFINVEST:USTECH100CFD",
-		"f": ["US TECH 100 CFD"]
-	}]
+			"s": "WHSELFINVEST:USDCAD",
+			"f": ["USD/CAD"]
+		},
+		{
+			"s": "WHSELFINVEST:USDCHF",
+			"f": ["USD/CHF"]
+		},
+		{
+			"s": "WHSELFINVEST:USDJPY",
+			"f": ["USD/JPY"]
+		},
+		{
+			"s": "WHSELFINVEST:EURUSD",
+			"f": ["EUR/USD"]
+		},
+		{
+			"s": "WHSELFINVEST:EURCHF",
+			"f": ["EUR/CHF"]
+		},
+		{
+			"s": "WHSELFINVEST:GBPJPY",
+			"f": ["GBP/JPY"]
+		},
+		{
+			"s": "WHSELFINVEST:AUDUSD",
+			"f": ["AUD/USD"]
+		},
+		{
+			"s": "WHSELFINVEST:EURJPY",
+			"f": ["EUR/JPY"]
+		},
+		{
+			"s": "WHSELFINVEST:GBPUSD",
+			"f": ["GBP/USD"]
+		},
+		{
+			"s": "WHSELFINVEST:EURGBP",
+			"f": ["EUR/GBP"]
+		},
+		{
+			"s": "WHSELFINVEST:NZDUSD",
+			"f": ["NZD/USD"]
+		},
+		{
+			"s": "WHSELFINVEST:JAPAN225CFD",
+			"f": ["JAPAN 225 CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:USSP500CFD",
+			"f": ["US SP 500 CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:FRANCE40CFD",
+			"f": ["FRANCE 40 CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:GERMANY30CFD",
+			"f": ["GERMANY 30 CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:WALLSTREETCFD",
+			"f": ["WALL STREET CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:GOLDCFD",
+			"f": ["GOLD (PER 0.1) CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:USSMALLCAP2000CFD",
+			"f": ["US SMALL CAP 2000 CFD"]
+		},
+		{
+			"s": "WHSELFINVEST:USTECH100CFD",
+			"f": ["US TECH 100 CFD"]
+		}
+	]
 }
