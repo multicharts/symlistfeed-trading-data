@@ -1,80 +1,793 @@
 {
-	"fields": ["brokerSymbol"],
-	"symbols": [{
-			"s": "WHSELFINVEST:USDCAD",
-			"f": ["USD/CAD"]
-		},
-		{
-			"s": "WHSELFINVEST:USDCHF",
-			"f": ["USD/CHF"]
-		},
-		{
-			"s": "WHSELFINVEST:USDJPY",
-			"f": ["USD/JPY"]
-		},
-		{
-			"s": "WHSELFINVEST:EURUSD",
-			"f": ["EUR/USD"]
-		},
-		{
-			"s": "WHSELFINVEST:EURCHF",
-			"f": ["EUR/CHF"]
-		},
-		{
-			"s": "WHSELFINVEST:GBPJPY",
-			"f": ["GBP/JPY"]
-		},
-		{
-			"s": "WHSELFINVEST:AUDUSD",
-			"f": ["AUD/USD"]
-		},
-		{
-			"s": "WHSELFINVEST:EURJPY",
-			"f": ["EUR/JPY"]
-		},
-		{
-			"s": "WHSELFINVEST:GBPUSD",
-			"f": ["GBP/USD"]
-		},
-		{
-			"s": "WHSELFINVEST:EURGBP",
-			"f": ["EUR/GBP"]
-		},
-		{
-			"s": "WHSELFINVEST:NZDUSD",
-			"f": ["NZD/USD"]
-		},
-		{
-			"s": "WHSELFINVEST:JAPAN225CFD",
-			"f": ["JAPAN 225 CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:USSP500CFD",
-			"f": ["US SP 500 CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:FRANCE40CFD",
-			"f": ["FRANCE 40 CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:GERMANY30CFD",
-			"f": ["GERMANY 30 CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:WALLSTREETCFD",
-			"f": ["WALL STREET CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:GOLDCFD",
-			"f": ["GOLD (PER 0.1) CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:USSMALLCAP2000CFD",
-			"f": ["US SMALL CAP 2000 CFD"]
-		},
-		{
-			"s": "WHSELFINVEST:USTECH100CFD",
-			"f": ["US TECH 100 CFD"]
-		}
-	]
+   "fields":[
+      "brokerSymbol"
+   ],
+   "symbols":[
+      {
+         "s":"WHSELFINVEST:USDCAD",
+         "f":[
+            "USD/CAD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:USDCHF",
+         "f":[
+            "USD/CHF"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:USDJPY",
+         "f":[
+            "USD/JPY"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:EURUSD",
+         "f":[
+            "EUR/USD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:EURCHF",
+         "f":[
+            "EUR/CHF"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:GBPJPY",
+         "f":[
+            "GBP/JPY"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:AUDUSD",
+         "f":[
+            "AUD/USD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:EURJPY",
+         "f":[
+            "EUR/JPY"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:GBPUSD",
+         "f":[
+            "GBP/USD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:EURGBP",
+         "f":[
+            "EUR/GBP"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:NZDUSD",
+         "f":[
+            "NZD/USD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:JAPAN225CFD",
+         "f":[
+            "JAPAN 225 CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:USSP500CFD",
+         "f":[
+            "US SP 500 CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:FRANCE40CFD",
+         "f":[
+            "FRANCE 40 CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:GERMANY30CFD",
+         "f":[
+            "GERMANY 30 CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:WALLSTREETCFD",
+         "f":[
+            "WALL STREET CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:GOLDCFD",
+         "f":[
+            "GOLD (PER 0.1) CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:USSMALLCAP2000CFD",
+         "f":[
+            "US SMALL CAP 2000 CFD"
+         ]
+      },
+      {
+         "s":"WHSELFINVEST:USTECH100CFD",
+         "f":[
+            "US TECH 100 CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:AALL",
+         "f":[
+            "ANGLO AMERICAN CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:ANTOL",
+         "f":[
+            "ANTOFAGASTA CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:AHTL",
+         "f":[
+            "ASHTEAD GROUP CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:AZN",
+         "f":[
+            "ASTRAZENECA PLC (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:AVL",
+         "f":[
+            "AVIVA CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:BARCL",
+         "f":[
+            "BARCLAYS (UK) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:BDEVL",
+         "f":[
+            "BARRATT DEVELOPMENTS CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:BLTL",
+         "f":[
+            "BHP BILLITON (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:BTL",
+         "f":[
+            "BT GROUP CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:BRBYL",
+         "f":[
+            "BURBERRY CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:CPIL",
+         "f":[
+            "CAPITA GROUP CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:CNAL",
+         "f":[
+            "CENTRICA CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:EZJL",
+         "f":[
+            "EASYJET CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:FRESL",
+         "f":[
+            "FRESNILLO CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:GSKL",
+         "f":[
+            "GLAXOSMITHKLINE CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:GLENL",
+         "f":[
+            "GLENCORE PLC CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:HSBAL",
+         "f":[
+            "HSBC HOLDINGS (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:ITVL",
+         "f":[
+            "ITV CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:PAGL",
+         "f":[
+            "LLOYDS BANKING GROUP CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:MKSL",
+         "f":[
+            "MARKS AND SPENCER CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:NGL",
+         "f":[
+            "NATIONAL GRID CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:NXTL",
+         "f":[
+            "NEXT CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:RRSL",
+         "f":[
+            "RANDGOLD RESOURCES LIMITED CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:RBSL",
+         "f":[
+            "RBS GROUP (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:RIOL",
+         "f":[
+            "RIO TINTO (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:RRL",
+         "f":[
+            "ROLLS ROYCE CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:RDSBL",
+         "f":[
+            "ROYAL DUTCH SHELL B CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:RMGL",
+         "f":[
+            "ROYAL MAIL CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:SBRYL",
+         "f":[
+            "SAINSBURY CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:SHPL",
+         "f":[
+            "SHIRE PLC CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:STANL",
+         "f":[
+            "STANDARD CHARTERED (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:TSCOL",
+         "f":[
+            "TESCO CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:VODL",
+         "f":[
+            "VODAFONE GROUP (LSE) CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:MRWL",
+         "f":[
+            "WM MORRISON SUPERMARKETS CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:IGGL",
+         "f":[
+            "IG GROUP HOLDINGS CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:PMOL",
+         "f":[
+            "PREMIER OIL CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:TLWL",
+         "f":[
+            "TULLOW OIL CFD"
+         ]
+      },
+      {
+         "s":"CHXEUR:TWL",
+         "f":[
+            "TAYLOR WIMPEY CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:AMD",
+         "f":[
+            "ADVANCED MICRO DEVICES CFD"
+         ]
+      },
+      {
+         "s":"NYSE:BABA",
+         "f":[
+            "ALIBABA GROUP HOLDING CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:GOOG",
+         "f":[
+            "ALPHABET INC A CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:AMZN",
+         "f":[
+            "AMAZON.COM CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:AAPL",
+         "f":[
+            "APPLE INC CFD"
+         ]
+      },
+      {
+         "s":"NYSE:BAC",
+         "f":[
+            "BANK OF AMERICA CFD"
+         ]
+      },
+      {
+         "s":"NYSE:ABX",
+         "f":[
+            "BARRICK GOLD CORP CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:FB",
+         "f":[
+            "FACEBOOK CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:GILD",
+         "f":[
+            "GILEAD SCIENCES CFD"
+         ]
+      },
+      {
+         "s":"NYSE:GSBD",
+         "f":[
+            "GOLDMAN SACHS CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:INTC",
+         "f":[
+            "INTEL CORP CFD"
+         ]
+      },
+      {
+         "s":"AMEX:VXX",
+         "f":[
+            "IPATH S&P 500 VIX SHORT-TERM CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:MSFT",
+         "f":[
+            "MICROSOFT CORP CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:NFLX",
+         "f":[
+            "NETFLIX CFD"
+         ]
+      },
+      {
+         "s":"NYSE:NEM",
+         "f":[
+            "NEWMONT MINING CORP (USD) CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:NVDA",
+         "f":[
+            "NVIDIA CORP CFD"
+         ]
+      },
+      {
+         "s":"NYSE:SNAP",
+         "f":[
+            "SNAP INC CFD"
+         ]
+      },
+      {
+         "s":"AMEX:GLD",
+         "f":[
+            "SPDR GOLD TRUST (US) CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:TSLA",
+         "f":[
+            "TESLA MOTORS CFD"
+         ]
+      },
+      {
+         "s":"NYSE:TWTR",
+         "f":[
+            "TWITTER CFD"
+         ]
+      },
+      {
+         "s":"AMEX:USO",
+         "f":[
+            "UNITED STATES OIL FUND CFD"
+         ]
+      },
+      {
+         "s":"AMEX:GDX",
+         "f":[
+            "VANECK VECTORS GOLD MINERS CFD"
+         ]
+      },
+      {
+         "s":"AMEX:GDXJ",
+         "f":[
+            "VANECK VECTORS JUNIOR GOLD MINERS CFD"
+         ]
+      },
+      {
+         "s":"NYSE:DIS",
+         "f":[
+            "WALT DISNEY CO CFD"
+         ]
+      },
+      {
+         "s":"HKEX:3988",
+         "f":[
+            "BANK OF CHINA CFD"
+         ]
+      },
+      {
+         "s":"HKEX:293",
+         "f":[
+            "CATHAY PACIFIC AIRWAYS CFD"
+         ]
+      },
+      {
+         "s":"HKEX:1800",
+         "f":[
+            "CHINA COMMUNICATIONS CONSTRUCT CFD"
+         ]
+      },
+      {
+         "s":"HKEX:941",
+         "f":[
+            "CHINA MOBILE (HKD) CFD"
+         ]
+      },
+      {
+         "s":"HKEX:688",
+         "f":[
+            "CHINA OVERSEAS LAND CFD"
+         ]
+      },
+      {
+         "s":"HKEX:3333",
+         "f":[
+            "CHINA EVERGRANDE GROUP CFD"
+         ]
+      },
+      {
+         "s":"HKEX:175",
+         "f":[
+            "GEELY AUTOMOBILE HOLDINGS LTD CFD"
+         ]
+      },
+      {
+         "s":"HKEX:5",
+         "f":[
+            "HSBC HOLDINGS (HKD) CFD"
+         ]
+      },
+      {
+         "s":"HKEX:1398",
+         "f":[
+            "ICBC (INDUS & COMM BANK OF CHINA) CFD"
+         ]
+      },
+      {
+         "s":"HKEX:2318",
+         "f":[
+            "PING AN INSURANCE CFD"
+         ]
+      },
+      {
+         "s":"HKEX:700",
+         "f":[
+            "TENCENT CFD"
+         ]
+      },
+      {
+         "s":"NYSE:T",
+         "f":[
+            "ATANDT CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:BIDU",
+         "f":[
+            "BAIDU INC CFD"
+         ]
+      },
+      {
+         "s":"NYSE:CHK",
+         "f":[
+            "CHESAPEAKE ENERGY CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:CSCO",
+         "f":[
+            "CISCO SYSTEMS CFD"
+         ]
+      },
+      {
+         "s":"NYSE:C",
+         "f":[
+            "CITIGROUP CFD"
+         ]
+      },
+      {
+         "s":"NYSE:KO",
+         "f":[
+            "COCA-COLA EUROPEAN PARTNERS CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:CMCSA",
+         "f":[
+            "COMCAST CORP A CFD"
+         ]
+      },
+      {
+         "s":"NYSE:XOM",
+         "f":[
+            "EXXON MOBIL CFD"
+         ]
+      },
+      {
+         "s":"NYSE:F",
+         "f":[
+            "FORD MOTOR CO CFD"
+         ]
+      },
+      {
+         "s":"NYSE:FCX",
+         "f":[
+            "FRPRT-MCMORAN COPPER AND GOLD CFD"
+         ]
+      },
+      {
+         "s":"NYSE:GE",
+         "f":[
+            "PORTLAND GENERAL ELECTRIC CO CFD"
+         ]
+      },
+      {
+         "s":"NYSE:GM",
+         "f":[
+            "GENERAL MOTORS CO CFD"
+         ]
+      },
+      {
+         "s":"NYSE:HPE",
+         "f":[
+            "HEWLETT PACKARD ENT CFD"
+         ]
+      },
+      {
+         "s":"NYSE:HPQ",
+         "f":[
+            "HP INC CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:HBAN",
+         "f":[
+            "HUNTINGTON BANCSHARES INC CFD"
+         ]
+      },
+      {
+         "s":"AMEX:EEM",
+         "f":[
+            "ISHARES MSCI EMERG MARKT CFD"
+         ]
+      },
+      {
+         "s":"AMEX:IWM",
+         "f":[
+            "ISHARES RUSSELL 2000 ETF CFD"
+         ]
+      },
+      {
+         "s":"NYSE:JPM",
+         "f":[
+            "J.P. MORGAN CHASE CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:JD",
+         "f":[
+            "JD.COM CFD"
+         ]
+      },
+      {
+         "s":"NYSE:JKS",
+         "f":[
+            "JINKOSOLAR HOLDING CO LTD CFD"
+         ]
+      },
+      {
+         "s":"NYSE:KEY",
+         "f":[
+            "KEYCORP (US) CFD"
+         ]
+      },
+      {
+         "s":"NYSE:KMI",
+         "f":[
+            "KINDER MORGAN INC CFD"
+         ]
+      },
+      {
+         "s":"NYSE:MRO",
+         "f":[
+            "MARATHON OIL CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:MLCO",
+         "f":[
+            "MELCO RESORTS ENTMT CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:MU",
+         "f":[
+            "MICRON TECH CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:MOMO",
+         "f":[
+            "MOMO INC CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:MS",
+         "f":[
+            "MORGAN STANLEY CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:NTES",
+         "f":[
+            "NETEASE INC ADR CFD"
+         ]
+      },
+      {
+         "s":"NYSE:ORCL",
+         "f":[
+            "ORACLE CFD"
+         ]
+      },
+      {
+         "s":"NYSE:PFE",
+         "f":[
+            "PFIZER CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:QCOM",
+         "f":[
+            "QUALCOMM CFD"
+         ]
+      },
+      {
+         "s":"NYSE:RF",
+         "f":[
+            "REGIONS FINANCIAL CORP CFD"
+         ]
+      },
+      {
+         "s":"NYSE:RIG",
+         "f":[
+            "TRANSOCEAN CFD"
+         ]
+      },
+      {
+         "s":"NYSE:VZ",
+         "f":[
+            "VERIZON COMMUNICATIONS INC CFD"
+         ]
+      },
+      {
+         "s":"NYSE:VIPS",
+         "f":[
+            "VIPSHOP HOLDINGS LTD CFD"
+         ]
+      },
+      {
+         "s":"NASDAQ:WB",
+         "f":[
+            "WEIBO CORP CFD"
+         ]
+      },
+      {
+         "s":"NYSE:WFC",
+         "f":[
+            "WELLS FARGO AND CO CFD"
+         ]
+      },
+      {
+         "s":"NYSE:XRX",
+         "f":[
+            "XEROX CORP CFD"
+         ]
+      },
+      {
+         "s":"NYSE:YUMC",
+         "f":[
+            "YUM CHINA HOLDINGS CFD"
+         ]
+      }
+   ]
 }
