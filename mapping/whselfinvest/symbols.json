@@ -788,6 +788,1794 @@
          "f":[
             "YUM CHINA HOLDINGS CFD"
          ]
+      },
+      {
+         "s":"EURONEXT:AALB",
+         "f":[
+            "AALBERTS INDUSTRIES NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AB",
+         "f":[
+            "AB SCIENCE SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ABN",
+         "f":[
+            "ABN AMRO GROUP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ACCEL",
+         "f":[
+            "ACCELL GROUP CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AC",
+         "f":[
+            "ACCOR CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ADYEN",
+         "f":[
+            "ADYEN B.V. CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AGN",
+         "f":[
+            "AEGON CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AGS",
+         "f":[
+            "AGEAS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AGFB",
+         "f":[
+            "AGFA-GEVAERT N.V CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AD",
+         "f":[
+            "AHOLD DELHAIZE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AF",
+         "f":[
+            "AIR FRANCE-KLM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AI",
+         "f":[
+            "AIR LIQUIDE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AIR",
+         "f":[
+            "AIRBUS GROUP SE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AKZA",
+         "f":[
+            "AKZO NOBLE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ALO",
+         "f":[
+            "ALSTOM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ATC",
+         "f":[
+            "ALTICE NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ALTR",
+         "f":[
+            "ALTRI SGPS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ABI",
+         "f":[
+            "ANHEUSER BUSCH INBEV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ANTA",
+         "f":[
+            "ANTALIS INTERNATIONAL CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:APAM",
+         "f":[
+            "APERAM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ARCAD",
+         "f":[
+            "ARCADIS NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:MT",
+         "f":[
+            "ARCELORMITTAL (EUR) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:JXR",
+         "f":[
+            "ARCHOS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:AKE",
+         "f":[
+            "ARKEMA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ASM",
+         "f":[
+            "ASM INTERNATIONAL (EUR) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ASML",
+         "f":[
+            "ASML HOLDING CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ATO",
+         "f":[
+            "ATOS SE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CS",
+         "f":[
+            "AXA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BFIT",
+         "f":[
+            "BASIC FIT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BESI",
+         "f":[
+            "BE SEMICONDUCT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BEKB",
+         "f":[
+            "BEKAERT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BBED",
+         "f":[
+            "BETER BED HOLDING NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BIM",
+         "f":[
+            "BIOMERIEUX CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BNP",
+         "f":[
+            "BNP PARIBAS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BOL",
+         "f":[
+            "BOLLORE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EN",
+         "f":[
+            "BOUYGUES CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BPOST",
+         "f":[
+            "BPOST SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BRNL",
+         "f":[
+            "BRUNEL INTERNA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BVI",
+         "f":[
+            "BUREAU VERITAS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CAP",
+         "f":[
+            "CAP GEMINI CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CA",
+         "f":[
+            "CARREFOUR CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CO",
+         "f":[
+            "CASINO GUICHARD PERRACHON CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CGG",
+         "f":[
+            "CGG SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CDI",
+         "f":[
+            "CHRISTIAN DIOR CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CNP",
+         "f":[
+            "CNP ASSURANCES SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:COFA",
+         "f":[
+            "COFACE SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:COFB",
+         "f":[
+            "COFINIMMO SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:COLR",
+         "f":[
+            "COLRUYT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CRBN",
+         "f":[
+            "CORBION NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ACA",
+         "f":[
+            "CREDIT AGRICOLE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BN",
+         "f":[
+            "DANONE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:DSY",
+         "f":[
+            "DASSAULT SYSTEMES CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:DBG",
+         "f":[
+            "DERICHEBOURG CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:DEXB",
+         "f":[
+            "DEXIA SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EDEN",
+         "f":[
+            "EDENRED SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EDF",
+         "f":[
+            "EDF (ELECTRICITE DE FRANCE SA) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:FGR",
+         "f":[
+            "EIFFAGE SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ELIOR",
+         "f":[
+            "ELIOR GROUP CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ENGI",
+         "f":[
+            "ENGIE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ERA",
+         "f":[
+            "ERAMET CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EL",
+         "f":[
+            "ESSILOR INTERNATIONAL SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ERF",
+         "f":[
+            "EUROFINS SCIENTIFIC SE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EURN",
+         "f":[
+            "EURONAV (EUR) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ENX",
+         "f":[
+            "EURONEXT NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EUCAR",
+         "f":[
+            "EUROPCAR MOBILITY CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ETL",
+         "f":[
+            "EUTELSAT COMMUNICATIONS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:FAGR",
+         "f":[
+            "FAGRON NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EO",
+         "f":[
+            "FAURECIA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:FLOW",
+         "f":[
+            "FLOW TRADERS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:FUR",
+         "f":[
+            "FUGRO NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:GLPG",
+         "f":[
+            "GALAPAGOS NV (NLD) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:GALP",
+         "f":[
+            "GALP ENERGIA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:GFC",
+         "f":[
+            "GECINA SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:GNFT",
+         "f":[
+            "GENFIT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:GVNV",
+         "f":[
+            "GRANDVISION CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:CEN",
+         "f":[
+            "GROUPE CRIT SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:HEIJM",
+         "f":[
+            "HEIJMANS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:HEIA",
+         "f":[
+            "HEINEKEN CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RMS",
+         "f":[
+            "HERMES INTERNATIONAL CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ICAD",
+         "f":[
+            "ICADE SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ILD",
+         "f":[
+            "ILIAD SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:INGA",
+         "f":[
+            "ING GROEP CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ING",
+         "f":[
+            "INGENICO GROUP CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:IPH",
+         "f":[
+            "INNATE PHARMA  CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:IPN",
+         "f":[
+            "IPSEN SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:IPS",
+         "f":[
+            "IPSOS SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:DEC",
+         "f":[
+            "JC DECAUX CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:KBC",
+         "f":[
+            "KBC GROEP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:KENDR",
+         "f":[
+            "KENDRION CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:KER",
+         "f":[
+            "KERING CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:LI",
+         "f":[
+            "KLEPIERRE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BAMNB",
+         "f":[
+            "KONINKLIJKE BAM GROEP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:BOKA",
+         "f":[
+            "KONINKLIJKE BOSKALIS WESTMINSTER NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:DSM",
+         "f":[
+            "KONINKLIJKE DSM N.V. CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PHIA",
+         "f":[
+            "KONINKLIJKE PHILIPS ELECTRONICS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VPK",
+         "f":[
+            "KONONKLIJKE VOPAK NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:KORI",
+         "f":[
+            "KORIAN CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:MMB",
+         "f":[
+            "LAGARDERE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:LR",
+         "f":[
+            "LEGRAND SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:OR",
+         "f":[
+            "L'OREAL CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:MC",
+         "f":[
+            "LVMH MOET HENNESSY LOUIS VUITTON CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:MAU",
+         "f":[
+            "MAUREL ET PROM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:MERY",
+         "f":[
+            "MERCIALYS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ML",
+         "f":[
+            "MICHELIN CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EGL",
+         "f":[
+            "MOTA ENGIL CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:KN",
+         "f":[
+            "NATIXIS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:NEX",
+         "f":[
+            "NEXANS SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:NN",
+         "f":[
+            "NN GROUP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:NYR",
+         "f":[
+            "NYRSTAR NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:OCI",
+         "f":[
+            "OCI NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ONTEX",
+         "f":[
+            "ONTEX CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:OBEL",
+         "f":[
+            "ORANGE BELGIUM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ORA",
+         "f":[
+            "ORANGE S.A. CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ORDI",
+         "f":[
+            "ORDINA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:ORP",
+         "f":[
+            "ORPEA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PARRO",
+         "f":[
+            "PARROT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RI",
+         "f":[
+            "PERNOD RICARD CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:UG",
+         "f":[
+            "PEUGEOT CITROEN CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PHARM",
+         "f":[
+            "PHARMING GROUP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PHR",
+         "f":[
+            "PHAROL SGPS SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VAC",
+         "f":[
+            "PIERRE & VACANC CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:POM",
+         "f":[
+            "PLASTIC OMNIUM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PNL",
+         "f":[
+            "POSTNL NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PROX",
+         "f":[
+            "PROXIMUS SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:PUB",
+         "f":[
+            "PUBLICIS GROUPE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RAL",
+         "f":[
+            "RALLYE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RAND",
+         "f":[
+            "RANDSTAD HOLDING CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:REN",
+         "f":[
+            "RELX NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RCO",
+         "f":[
+            "REMY COINTREAU CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RNO",
+         "f":[
+            "RENAULT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RXL",
+         "f":[
+            "REXEL SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:RDSA",
+         "f":[
+            "ROYAL DUTCH SHELL PLC (NL) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:KPN",
+         "f":[
+            "ROYAL KPN CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SAF",
+         "f":[
+            "SAFRAN SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SGO",
+         "f":[
+            "SAINT-GOBAIN CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SAN",
+         "f":[
+            "SANOFI AVENTIS CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SBMO",
+         "f":[
+            "SBM OFFSHORE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SU",
+         "f":[
+            "SCHNEIDER ELECTRIC SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SCR",
+         "f":[
+            "SCOR SE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SESG",
+         "f":[
+            "SES SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SIP",
+         "f":[
+            "SIPEF NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SLIGR",
+         "f":[
+            "SLIGRO FOOD GROUP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:GLE",
+         "f":[
+            "SOCIETE GENERALE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SW",
+         "f":[
+            "SODEXO CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SOI",
+         "f":[
+            "SOITEC CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:LOCAL",
+         "f":[
+            "SOLOCAL GROUP CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SOLB",
+         "f":[
+            "SOLVAY CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SON",
+         "f":[
+            "SONAE SGPS SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SOP",
+         "f":[
+            "SOPRA STERIA G CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:STM",
+         "f":[
+            "STMICROELECTRONICS (FRA) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SEV",
+         "f":[
+            "SUEZ CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:SDG",
+         "f":[
+            "SYNERGIE SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TKWY",
+         "f":[
+            "TAKEAWAY.COM NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TCH",
+         "f":[
+            "TECHNICOLOR CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TNET",
+         "f":[
+            "TELENET GROUP HOLDING NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TEP",
+         "f":[
+            "TELEPERFORMANCE SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TFI",
+         "f":[
+            "TF1 CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:HO",
+         "f":[
+            "THALES CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TWEKA",
+         "f":[
+            "TKH GROUP NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TOM2",
+         "f":[
+            "TOMTOM CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:FP",
+         "f":[
+            "TOTAL CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:EC",
+         "f":[
+            "TOTAL GABON CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:TNG",
+         "f":[
+            "TRANSGENE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:UBI",
+         "f":[
+            "UBISOFT ENTERTAINMENT CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:UCB",
+         "f":[
+            "UCB CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:UMI",
+         "f":[
+            "UMICORE CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:UNA",
+         "f":[
+            "UNILEVER NV (EUR) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:FR",
+         "f":[
+            "VALEO CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VK",
+         "f":[
+            "VALLOUREC CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VLA",
+         "f":[
+            "VALNEVA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VIE",
+         "f":[
+            "VEOLIA ENVIRONNEMENT (EUR) CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VCT",
+         "f":[
+            "VICAT SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:DG",
+         "f":[
+            "VINCI CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:VIV",
+         "f":[
+            "VIVENDI CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:MF",
+         "f":[
+            "WENDEL SA CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:WHA",
+         "f":[
+            "WERELDHAVE NV CFD"
+         ]
+      },
+      {
+         "s":"EURONEXT:WKL",
+         "f":[
+            "WOLTERS KLUWER CFD"
+         ]
+      },
+      {
+         "s":"XETR:ARL",
+         "f":[
+            "AAREAL BANK AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:ADS",
+         "f":[
+            "ADIDAS AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:ADV",
+         "f":[
+            "ADVA OPTICAL NETWORKING SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:AIXA",
+         "f":[
+            "AIXTRON SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:ALV",
+         "f":[
+            "ALLIANZ SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:AOX",
+         "f":[
+            "ALSTRIA OFFICE REIT AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:NDA",
+         "f":[
+            "AURUBIS AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:BAS",
+         "f":[
+            "BASF SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:BMW",
+         "f":[
+            "BMW CFD"
+         ]
+      },
+      {
+         "s":"XETR:BAYN",
+         "f":[
+            "BAYER CFD"
+         ]
+      },
+      {
+         "s":"XETR:BNR",
+         "f":[
+            "BRENNTAG AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:COK",
+         "f":[
+            "CANCOM SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:AFX",
+         "f":[
+            "CARL ZEISS MEDITEC AG - BR CFD"
+         ]
+      },
+      {
+         "s":"XETR:CEC",
+         "f":[
+            "CECONOMY AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:CBK",
+         "f":[
+            "COMMERZBANK CFD"
+         ]
+      },
+      {
+         "s":"XETR:CON",
+         "f":[
+            "CONTINENTAL AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:1COV",
+         "f":[
+            "COVESTRO AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:EVD",
+         "f":[
+            "CTS EVENTIM AG CO CFD"
+         ]
+      },
+      {
+         "s":"XETR:DAI",
+         "f":[
+            "DAIMLER AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DHER",
+         "f":[
+            "DELIVERY HERO AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DBK",
+         "f":[
+            "DEUTSCHE BANK AG (EUR) CFD"
+         ]
+      },
+      {
+         "s":"XETR:DB1",
+         "f":[
+            "DEUTSCHE BOERSE CFD"
+         ]
+      },
+      {
+         "s":"XETR:DEQ",
+         "f":[
+            "DEUTSCHE EUROSHOP AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DPW",
+         "f":[
+            "DEUTSCHE POST AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DWNI",
+         "f":[
+            "DEUTSCHE WOHNEN AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DEZ",
+         "f":[
+            "DEUTZ AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DIC",
+         "f":[
+            "DIC ASSET AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:DRW3",
+         "f":[
+            "DRAEGERWERK AG - PREF CFD"
+         ]
+      },
+      {
+         "s":"XETR:DTE",
+         "f":[
+            "DEUTSCHE TELEKOM CFD"
+         ]
+      },
+      {
+         "s":"XETR:DUE",
+         "f":[
+            "DUERR AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:EOAN",
+         "f":[
+            "E.ON CFD"
+         ]
+      },
+      {
+         "s":"XETR:ZIL2",
+         "f":[
+            "ELRINGKLINGER AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:EVK",
+         "f":[
+            "EVONIK INDUSTRIES AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:EVT",
+         "f":[
+            "EVOTEC AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:FIE",
+         "f":[
+            "FIELMANN AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:FRA",
+         "f":[
+            "FRAPORT AG FRANKFURT AIRPORT CFD"
+         ]
+      },
+      {
+         "s":"XETR:FNTN",
+         "f":[
+            "FREENET AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:FME",
+         "f":[
+            "FRESENIUS MEDICAL CARE CFD"
+         ]
+      },
+      {
+         "s":"XETR:FRE",
+         "f":[
+            "FRESENIUS SE & CO KGAA CFD"
+         ]
+      },
+      {
+         "s":"XETR:FPE3",
+         "f":[
+            "FUCHS PETROLUB AG -PREF CFD"
+         ]
+      },
+      {
+         "s":"XETR:G1A",
+         "f":[
+            "GEA GROUP CFD"
+         ]
+      },
+      {
+         "s":"XETR:GXI",
+         "f":[
+            "GERRESHEIMER AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HHFA",
+         "f":[
+            "HAMBURGER HAFEN UND LOGISTIK AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HNR1",
+         "f":[
+            "HANNOVER RUECKVERSICHERU-REG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HLAG",
+         "f":[
+            "HAPAG LLOYD AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HDD",
+         "f":[
+            "HEIDELBERGER DRUCKMASCHINEN  AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HEI",
+         "f":[
+            "HEIDELBERGCEMENT AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HEN",
+         "f":[
+            "HENKEL AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:HEN3",
+         "f":[
+            "HENKEL AG (PREFERRED) CFD"
+         ]
+      },
+      {
+         "s":"XETR:HOT",
+         "f":[
+            "HOCHTIEF AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:BOSS",
+         "f":[
+            "HUGO BOSS AG - ORD CFD"
+         ]
+      },
+      {
+         "s":"XETR:IFX",
+         "f":[
+            "INFINEON TECHNOLOGIES AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:EXS3",
+         "f":[
+            "ISHARES MDAX DE CFD"
+         ]
+      },
+      {
+         "s":"XETR:EXS2",
+         "f":[
+            "ISHARES TECDAX UCITS DE ETF CFD"
+         ]
+      },
+      {
+         "s":"XETR:ISR",
+         "f":[
+            "ISRA VISION AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:JEN",
+         "f":[
+            "JENOPTIK AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SDF",
+         "f":[
+            "K&S AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:KGX",
+         "f":[
+            "KION GROUP AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:KCO",
+         "f":[
+            "KLOECKNER & CO CFD"
+         ]
+      },
+      {
+         "s":"XETR:KU2",
+         "f":[
+            "KUKA AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:LXS",
+         "f":[
+            "LANXESS AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:LEG",
+         "f":[
+            "LEG IMMOBILIEN AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:LEO",
+         "f":[
+            "LEONI AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:LPK",
+         "f":[
+            "LPKF LASER & ELECTRONICS CFD"
+         ]
+      },
+      {
+         "s":"XETR:LHA",
+         "f":[
+            "LUFTHANSA AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:MAN",
+         "f":[
+            "MAN SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:MRK",
+         "f":[
+            "MERCK KGAA CFD"
+         ]
+      },
+      {
+         "s":"XETR:B4B",
+         "f":[
+            "METRO WHOLESALE CFD"
+         ]
+      },
+      {
+         "s":"XETR:MOR",
+         "f":[
+            "MORPHOSYS AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:MTX",
+         "f":[
+            "MTU AERO ENGINES AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:MUV2",
+         "f":[
+            "MUENCHENER RUECKVERSICHERUNGS CFD"
+         ]
+      },
+      {
+         "s":"XETR:NDX1",
+         "f":[
+            "NORDEX SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:NOEJ",
+         "f":[
+            "NORMA GROUP CFD"
+         ]
+      },
+      {
+         "s":"XETR:OSR",
+         "f":[
+            "OSRAM LICHT AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:PGN",
+         "f":[
+            "PARAGON AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:PAT",
+         "f":[
+            "PATRIZIA IMMOBILIEN AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:PFV",
+         "f":[
+            "PFEIFFER VACUUM TECHNOLOGY CFD"
+         ]
+      },
+      {
+         "s":"XETR:PAH3",
+         "f":[
+            "PORSCHE AUTOMOBIL HOLDING SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:PSM",
+         "f":[
+            "PROSIEBEN SAT1 MEDIA SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:PUM",
+         "f":[
+            "PUMA SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:QSC",
+         "f":[
+            "QSC AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:RHM",
+         "f":[
+            "RHEINMETALL VZ CFD"
+         ]
+      },
+      {
+         "s":"XETR:RHK",
+         "f":[
+            "RHOEN-KLINIKUM AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:RIB",
+         "f":[
+            "RIB SOFTWARE AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:RKET",
+         "f":[
+            "ROCKET INTERNET CFD"
+         ]
+      },
+      {
+         "s":"XETR:RRTL",
+         "f":[
+            "RTL GROUP SA CFD"
+         ]
+      },
+      {
+         "s":"XETR:RWE",
+         "f":[
+            "RWE AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SZG",
+         "f":[
+            "SALZGITTER AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SAP",
+         "f":[
+            "SAP AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SRT3",
+         "f":[
+            "SARTORIUS AG - VORZUG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SHA",
+         "f":[
+            "SCHAEFFLERAG CFD"
+         ]
+      },
+      {
+         "s":"XETR:G24",
+         "f":[
+            "SCOUT24 AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SGL",
+         "f":[
+            "SGL CARBON SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:SIE",
+         "f":[
+            "SIEMENS (GER) CFD"
+         ]
+      },
+      {
+         "s":"XETR:WAF",
+         "f":[
+            "SILTRONIC AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:S92",
+         "f":[
+            "SMA SOLAR TECHNOLOGY AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SOW",
+         "f":[
+            "SOFTWARE AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SBS",
+         "f":[
+            "STRATEC BIOMEDICAL AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SAX",
+         "f":[
+            "STROEER SE AND CO KGAA CFD"
+         ]
+      },
+      {
+         "s":"XETR:SZU",
+         "f":[
+            "SUEDZUCKER AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SMHN",
+         "f":[
+            "SUESS MICROTEC AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:SY1",
+         "f":[
+            "SYMRISE AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:TEG",
+         "f":[
+            "TAG IMMOBILIEN AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:TLX",
+         "f":[
+            "TALANX AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:O2D",
+         "f":[
+            "TELEFONICA DEUTSCHLAND HOLDINGS CFD"
+         ]
+      },
+      {
+         "s":"XETR:TKA",
+         "f":[
+            "THYSSENKRUPP AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:TUI1",
+         "f":[
+            "TUI AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:UN01",
+         "f":[
+            "UNIPER AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:UTDI",
+         "f":[
+            "UNITED INTERNET AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:VWS",
+         "f":[
+            "VESTAS WIND SYSTEMS DE CFD"
+         ]
+      },
+      {
+         "s":"XETR:VOW",
+         "f":[
+            "VOLKSWAGEN AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:VOW3",
+         "f":[
+            "VOLKSWAGEN AG PREF CFD"
+         ]
+      },
+      {
+         "s":"XETR:VNA",
+         "f":[
+            "VONOVIA SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:WCH",
+         "f":[
+            "WACKER CHEMIE CFD"
+         ]
+      },
+      {
+         "s":"XETR:WDI",
+         "f":[
+            "WIRECARD AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:ZAL",
+         "f":[
+            "ZALANDO SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:BC8",
+         "f":[
+            "BECHTLE AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:BEI",
+         "f":[
+            "BEIERSDORF CFD"
+         ]
+      },
+      {
+         "s":"XETR:GBF",
+         "f":[
+            "BILFINGER SE CFD"
+         ]
+      },
+      {
+         "s":"XETR:B8F",
+         "f":[
+            "BIOFRONTERA AG CFD"
+         ]
+      },
+      {
+         "s":"XETR:BIO3",
+         "f":[
+            "BIOTEST AG CFD"
+         ]
       }
    ]
 }
